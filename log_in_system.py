@@ -1,36 +1,3 @@
-'''
-1. Create an account DONE
-    a. email
-    b. username
-    c. password
-    d. re-type password
-    e. create unique id for each account
-    f. add account details to dictionary
-
-2. Log in DONE
-    a. Ask for username and password
-    b. If correct, say "You have logged in successfully."
-    c. If incorrect, give 3 tries before locking out for 60 seconds
-    d. Create a user id allocated with their details
-
-3. Log out
-    a. Type "Log out" to log out of system
-
-4. Count Log ins
-    a. Count the number of times a user has logged in
-    b. Print a list of users with their respective log in counts
-
-5. Change password
-
-6. Check to see if username has already been taken
-
-7.Check to see if email address has already been used
-
-8. Choose action home screen: either login or create an account
-'''
-
-
-
 import json
 
 
